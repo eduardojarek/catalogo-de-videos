@@ -8,3 +8,16 @@ header {
     padding: 2px;
     font-size: 30px;
 }
+
+section{
+    background: rgb(123,234,198)
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chama-texto {
+    margin-right:5%;
+}
+    
